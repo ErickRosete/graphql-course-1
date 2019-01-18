@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Bill",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Erick",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Oscar",
+      "age": 26,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Jessica Borja",
+      "age": 22,
+      "id": "lb5rKhI"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Google",
+      "description": "Super Company"
+    },
+    {
+      "id": "2",
+      "name": "AstraDev",
+      "description": "Small Company"
+    }
+  ]
+}
